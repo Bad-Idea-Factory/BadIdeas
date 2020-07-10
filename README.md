@@ -24,7 +24,7 @@ Once you're connected, determine your IP address on the VPN
 
 Open the project with Unreal Engine and wait AGES for it to find all the assets and compile everything locally
 
-Edit the project settings in Unreal Engine and specify your VPN IP address under UDP Messages
+Edit the project settings in Unreal Engine and specify your VPN IP address under UDP Messages, and change the multicast endpoint to 234.0.0.1:6666
 
 Open the multi-user editing window and connect to a session!
 
