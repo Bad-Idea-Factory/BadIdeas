@@ -9,7 +9,7 @@ Use github desktop to pull this project to a folder in your Unreal Projects fold
 
 Download & Install the G-Drive stream client from https://dl.google.com/drive-file-stream/GoogleDriveFSSetup.exe
 
-(You will be given the credentials when you're invited to a colaborative editing session)
+(You will be given the credentials when you're invited to a collaborative editing session)
 
 Edit the drivelink.bat file in the Badideas project directory, change the paths to suit the location of your project directory and drive stream letter
 
@@ -28,4 +28,4 @@ Edit the project settings in Unreal Engine and specify your VPN IP address under
 
 Open the multi-user editing window and connect to a session!
 
-Note: this is not for public consumption, this project is hosted on github for UE4 editing jams hoted by Bad Idea Factory and The Kickons Crew. 
+Note: this is not for public consumption, this project is hosted on github for UE4 editing jams hosted by Bad Idea Factory and The Kickons Crew. 
