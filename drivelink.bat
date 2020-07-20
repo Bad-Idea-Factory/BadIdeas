@@ -1,2 +1,2 @@
 del Content
-mklink /j "D:\Documents\Unreal Projects\BadIdeas\Content" "F:\My Drive\UEContent"
+mklink /j "D:\Documents\UnrealProjects\Badideas\Content" "G:\My Drive\UEContent"
